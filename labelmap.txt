@@ -1,0 +1,3 @@
+label 0
+中文標籤 1
+label 2
